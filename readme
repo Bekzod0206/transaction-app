@@ -1,0 +1,3 @@
+Working with files
+Download files locally, and in your IDE run "npm install", then run "npm run dev".
+If loaded page states about issues on fetching data, try to update api key in axios config.
