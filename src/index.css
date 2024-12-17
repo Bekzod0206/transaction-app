@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  height: 100vh;
+  width: 100%;
+  background-color: #353138;
+  color: aqua;
+}
+
+.navbar a{
+  color: aqua;
+  text-decoration: none;
+}
+.nav-active {
+  color: #9ba3ff !important;
+  transition: all .5s ease;
+}
+.currency-divider-line{
+  width: 25px;
+  height: 3px;
+  align-self: center;
+  margin-inline: 35px;
+  background-color: aqua;
+}
